@@ -1,0 +1,27 @@
+{
+  "NASA_COUNTRY_BOUNDARIES": {
+    "id": "NASA_COUNTRY_BOUNDARIES",
+    "url": "https://data.nasa.gov/api/geospatial/7zbq-j77a?method=export&format=KML",
+    "title": "NASA Geopolitcal Boundaries"
+  },
+  "US_PRIVATE_SCHOOLS": {
+    "id": "US_PRIVATE_SCHOOLS",
+    "url": "https://opendata.arcgis.com/datasets/1c004a108b18460bba1ddb29ec1f7982_0.geojson",
+    "title": "US Private Schools"
+  },
+  "US_PUBLIC_SCHOOLS": {
+    "id": "US_PUBLIC_SCHOOLS",
+    "url": "https://opendata.arcgis.com/datasets/fb92b1df7c5a445c96840005cd6de264_0.geojson",
+    "title": "US Public Schools"
+  },
+  "VT_FOOD_SCRAP_GENERATORS": {
+    "id": "VT_FOOD_SCRAP_GENERATORS",
+    "url": "https://opendata.arcgis.com/datasets/21d080724e414ba59cb509972f924eb5_165.geojson",
+    "title": "Vermont Food Scrap Generators"
+  },
+  "US_COUNTIES": {
+    "id": "US_COUNTIES",
+    "url": "https://opendata.arcgis.com/datasets/9248aea543dd4ef0833680d136fe8496_1.geojson",
+    "title": "US County Boundaries"
+  }
+}

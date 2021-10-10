@@ -1,0 +1,23 @@
+{
+  "NASA_48HR_WORLD_FIRES": {
+    "id": "NASA_48HR_WORLD_FIRES",
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Global_animated_48h.kml",
+    "title": "World Wildfires in the last 48 hours",
+    "src": "https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-kml"
+  },
+  "NASA_GLOBAL_LANDSLIDE": {
+    "id": "NASA_GLOBAL_LANDSLIDE",
+    "url": "https://data.nasa.gov/api/geospatial/h9d8-neg4?method=export&format=KML",
+    "title": "NASA Global Landslide Catalog"
+  },
+  "US_WATERWAY_NETWORK": {
+    "id": "US_WATERWAY_NETWORK",
+    "url": "https://opendata.arcgis.com/datasets/349ce90ebfcd47f49401ac4d817b0d58_7.geojson",
+    "title": "US Waterways"
+  },
+  "GRASSLAND_UNITS": {
+    "id": "GRASSLAND_UNITS",
+    "url": "https://opendata.arcgis.com/datasets/b8db5d69787c408d9654a1f36438acbd_0.geojson",
+    "title": "National Grassland Units"
+  }
+}

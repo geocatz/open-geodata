@@ -1,0 +1,12 @@
+{
+  "VT_HOSPITALS": {
+    "id": "VT_HOSPITALS",
+    "url": "https://opendata.arcgis.com/datasets/910089de7b5c402cb915c519662887cd_0.geojson",
+    "title": "Service Hospitals in Vermont"
+  },
+  "COVID": {
+    "id": "COVID",
+    "url": "https://opendata.arcgis.com/datasets/90a137c9e0494ecab29672bba8cb3ee0_0.geojson",
+    "title": "CaronaVirus"
+  }
+}
