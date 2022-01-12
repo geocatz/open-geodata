@@ -1,0 +1,22 @@
+[
+  {
+    "id": "US_LOCKS_AND_DAMS",
+    "url": "https://opendata.arcgis.com/datasets/349ce90ebfcd47f49401ac4d817b0d58_3.geojson",
+    "title": "USACOE Maintained Locks and Dams"
+  },
+  {
+    "id": "US_AIRPORT_AREAS",
+    "url": "https://geospatial-usace.opendata.arcgis.com/datasets/04354b4fe27e4a6f9153fd47e516dac9_0.kml?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D",
+    "title": "US Airport Areas"
+  },
+  {
+    "id": "US_WATERWAY_NETWORK",
+    "url": "https://opendata.arcgis.com/datasets/349ce90ebfcd47f49401ac4d817b0d58_7.geojson",
+    "title": "US Waterways"
+  },
+  {
+    "id": "NON_FEDERAL_NAVIGATION",
+    "url": "https://opendata.arcgis.com/datasets/fec7341a4b2b4e43bc1f6258057fd115_2.geojson",
+    "title": "Non-Federal Navigation Points"
+  }
+]

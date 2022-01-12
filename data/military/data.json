@@ -1,0 +1,17 @@
+{
+  "FUDS_MUNITIONS_SITES": {
+    "id": "FUDS_MUNITIONS_SITES",
+    "url": "https://opendata.arcgis.com/datasets/3f8354667d5b4b1b8ad7a6e00c3cf3b1_3.geojson",
+    "title": "Formerly Used Defense Munitions Sites"
+  },
+  "FUDS_BOUNDARIES": {
+    "id": "FUDS_BOUNDARIES",
+    "url": "https://opendata.arcgis.com/datasets/3f8354667d5b4b1b8ad7a6e00c3cf3b1_10.geojson",
+    "title": "Formerly Used Defense Station Boundaries"
+  },
+  "US_DEFENSE_SITES": {
+    "id": "US_DEFENSE_SITES",
+    "url": "https://opendata.arcgis.com/datasets/85e5114c86fc4e5ba2d1e29ca213b834_1.geojson",
+    "title": "Current US Military Defense sites"
+  }
+}
